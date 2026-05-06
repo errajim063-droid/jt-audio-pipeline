@@ -1,0 +1,131 @@
+{
+  "_meta": {
+    "description": "Sample output of fetcher.fetch_all_segments() — this is the dict passed verbatim to processor.generate_script()",
+    "generated": "2026-05-06",
+    "total_articles": 15,
+    "schema": {
+      "title": "string — plain text, HTML stripped",
+      "summary": "string — up to 600 chars, HTML stripped",
+      "url": "string — canonical article link",
+      "source": "string — RSS feed <title> field",
+      "published": "string | null — ISO-8601 UTC datetime, null if feed omitted date"
+    }
+  },
+
+  "ia_tech_maroc": [
+    {
+      "title": "Akhannouch précise le calendrier des CHU de Rabat et Laâyoune",
+      "summary": "Le chef du gouvernement Aziz Akhannouch a confirmé les dates d'entrée en service des Centres hospitaliers universitaires de Rabat et de Laâyoune. La stratégie nationale vise à doter chaque région du Royaume de son propre CHU. Ce chantier reflète la volonté du gouvernement de rapprocher les soins spécialisés des populations.",
+      "url": "https://medias24.com/2026/05/06/akhannouch-calendrier-chu-rabat-laayoune",
+      "source": "Medias24",
+      "published": "2026-05-06T07:14:00+00:00"
+    },
+    {
+      "title": "La Fondation Mohammed VI signe un mémorandum avec l'OMS",
+      "summary": "La Fondation Mohammed VI pour la protection de l'environnement a signé un accord de partenariat avec l'Organisation mondiale de la santé. Le mémorandum couvre la prévention, la formation des professionnels de santé, la gouvernance sanitaire et la recherche basée sur les données. Le partenariat bénéficiera au Maroc et à l'ensemble du continent africain.",
+      "url": "https://www.challenge.ma/fondation-mohammed-vi-oms-memorandum-2026",
+      "source": "Challenge.ma",
+      "published": "2026-05-06T08:30:00+00:00"
+    },
+    {
+      "title": "Fluidra, leader espagnol des piscines, choisit Tanger pour son implantation africaine",
+      "summary": "Le groupe Fluidra, coté à la Bourse de Madrid, a annoncé son intention de s'implanter à Tanger dans ses résultats du premier trimestre 2026. Cette installation s'inscrit dans une réorganisation industrielle mondiale qui prévoit une consolidation en Amérique du Nord et la fermeture d'un site en Chine. Tanger confirme ainsi son attractivité comme destination industrielle de premier plan.",
+      "url": "https://leseco.ma/industrie/fluidra-espagne-tanger-implantation-2026.html",
+      "source": "Les Eco",
+      "published": "2026-05-06T09:05:00+00:00"
+    },
+    {
+      "title": "Maersk lance une ligne Baltique avec Tanger Med comme hub central",
+      "summary": "Le géant du transport maritime Maersk a lancé la ligne hebdomadaire SLA Baltic Sea intégrant Tanger Med comme hub principal. Le service relie Tanger Med à Gdansk, Bremerhaven, Vado Ligure, Port-Saïd et Alexandrie avec cinq porte-conteneurs de 4 000 à 5 000 EVP. Cette nouvelle connexion entre la Méditerranée et la mer Baltique renforce le positionnement de Tanger Med comme nœud logistique mondial.",
+      "url": "https://medias24.com/2026/05/06/maersk-sla-baltic-sea-tanger-med-hub",
+      "source": "Medias24",
+      "published": "2026-05-06T10:22:00+00:00"
+    }
+  ],
+
+  "ia_tech_international": [
+    {
+      "title": "Samsung franchit le cap des 1 000 milliards de dollars de capitalisation boursière",
+      "summary": "Samsung Electronics a dépassé la barre symbolique des mille milliards de dollars de capitalisation boursière, portée par la demande mondiale en puces mémoire liée à l'essor de l'intelligence artificielle. Le géant sud-coréen devient seulement la deuxième entreprise asiatique à atteindre ce seuil après TSMC. Cette hausse illustre comment l'IA redistribue les cartes dans le secteur des semi-conducteurs.",
+      "url": "https://techcrunch.com/2026/05/06/samsung-trillion-dollar-market-cap-ai-chips/",
+      "source": "TechCrunch",
+      "published": "2026-05-06T06:00:00+00:00"
+    },
+    {
+      "title": "QuTwo raises $29M at $380M valuation for AI and quantum computing research",
+      "summary": "Finnish AI and quantum computing lab QuTwo has closed a $29 million angel round valuing the company at approximately $380 million. The company was founded by Peter Sarlin, former CEO of AMD Silo AI. The raise signals strong investor appetite for sovereign European AI technology development despite the early funding stage.",
+      "url": "https://techcrunch.com/2026/05/06/qutwo-raises-29m-380m-valuation-ai-quantum/",
+      "source": "TechCrunch",
+      "published": "2026-05-06T07:30:00+00:00"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026 : une session M&A avec Coinbase et M13 pour les startups en phase précoce",
+      "summary": "TechCrunch Disrupt 2026 annonce une session dédiée aux fusions-acquisitions réunissant des représentants de Coinbase, du fonds M13 et du cabinet Mignano Law Group. Les intervenants entendent démontrer que les M&A peuvent constituer une stratégie dès les premières étapes de la vie d'une startup. Le sujet est particulièrement pertinent dans un contexte de consolidation accélérée du secteur technologique.",
+      "url": "https://techcrunch.com/2026/05/06/disrupt-2026-ma-session-coinbase-m13-mignano/",
+      "source": "TechCrunch",
+      "published": "2026-05-06T08:15:00+00:00"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026 : 50 % de réduction sur le deuxième billet jusqu'au 8 mai",
+      "summary": "TechCrunch propose jusqu'au 8 mai une réduction de cinquante pour cent sur le deuxième billet acheté pour Disrupt 2026. L'offre s'adresse aux professionnels souhaitant gagner en visibilité dans l'industrie technologique. Elle s'applique à l'achat simultané de deux tickets pour la conférence.",
+      "url": "https://techcrunch.com/2026/05/06/disrupt-2026-buy-2-get-50-off-second-ticket/",
+      "source": "TechCrunch",
+      "published": "2026-05-06T09:00:00+00:00"
+    }
+  ],
+
+  "casablanca": [
+    {
+      "title": "Sindibad Casablanca : assainissement financier avant l'arrivée du groupe Pickalbatros",
+      "summary": "Le parc d'attractions Sindibad de Casablanca procède à un assainissement financier préalable à l'arrivée du groupe égyptien Pickalbatros, spécialiste de l'hôtellerie et du tourisme. Cette remise à plat des comptes est une condition indispensable à la transformation du site, qui accueillera de nouveaux hôtels et attractions. Le parc vise des ambitions touristiques bien plus larges qu'aujourd'hui.",
+      "url": "https://medias24.com/2026/05/06/sindibad-casablanca-pickalbatros-assainissement",
+      "source": "Medias24",
+      "published": "2026-05-06T08:45:00+00:00"
+    },
+    {
+      "title": "La FNBTP signe un accord de partenariat avec la CNPC-CI de Côte d'Ivoire à Casablanca",
+      "summary": "La Fédération nationale du bâtiment et des travaux publics (FNBTP) a signé un accord avec la Chambre nationale des promoteurs et constructeurs de Côte d'Ivoire (CNPC-CI) lors du lancement du bureau régional Maghreb de l'Union arabe pour la construction à Casablanca. L'objectif est de renforcer les partenariats Sud-Sud dans le secteur du BTP. Cet accord illustre le rôle croissant du Maroc comme pont entre le Maghreb et l'Afrique subsaharienne.",
+      "url": "https://www.h24info.ma/economie/fnbtp-cnpc-ci-accord-casablanca-sud-sud",
+      "source": "H24 Info",
+      "published": "2026-05-06T10:00:00+00:00"
+    },
+    {
+      "title": "Brands and Corners inaugure son 12e magasin au Sela Park Almaz de Casablanca",
+      "summary": "L'enseigne marocaine Brands and Corners a ouvert mardi son douzième magasin national au centre commercial Sela Park Almaz, à Casablanca, avec un investissement de dix millions de dirhams. Il s'agit du cinquième point de vente de la marque dans la capitale économique. L'enseigne ambitionne de proposer une expérience de shopping diversifiée pour un public urbain exigeant.",
+      "url": "https://medias24.com/2026/05/06/brands-corners-12e-magasin-sela-park-almaz-casablanca",
+      "source": "Medias24",
+      "published": "2026-05-06T11:30:00+00:00"
+    }
+  ],
+
+  "nationales": [
+    {
+      "title": "Annie Ernaux au SIEL de Rabat : \"La notoriété est quelque chose d'insupportable\"",
+      "summary": "La prix Nobel de littérature 2022 Annie Ernaux est de passage à Rabat pour le Salon international de l'édition et du livre. À 86 ans, l'écrivaine française a livré des propos d'une rare franchise, décrivant la notoriété comme insupportable et l'écriture comme une nécessité profonde. La mémoire reste sa matière première, dit-elle, infiniment fragile.",
+      "url": "https://www.map.ma/fr/content/annie-ernaux-siel-rabat-2026",
+      "source": "MAP - Agence Maghreb Arabe Presse",
+      "published": "2026-05-06T09:10:00+00:00"
+    },
+    {
+      "title": "Dislog Medical Devices élargit son positionnement vers les solutions de santé intégrées",
+      "summary": "Dislog Medical Devices (DMD) ne se contente plus de distribuer du matériel médical et s'implique désormais dans la conception et le déploiement de solutions de santé intégrées. Cette montée en gamme traduit l'ambition de l'entreprise de peser davantage dans l'écosystème médical national. Dans un contexte de modernisation du système de santé marocain, ce positionnement pourrait s'avérer stratégique.",
+      "url": "https://medias24.com/2026/05/06/dislog-medical-devices-solutions-sante-integrees",
+      "source": "Medias24",
+      "published": "2026-05-06T07:55:00+00:00"
+    },
+    {
+      "title": "Gitex Future Health Africa 2026 à Casablanca : structurer des systèmes de santé plus autonomes",
+      "summary": "Gitex Future Health Africa 2026 a réuni à Casablanca des décideurs publics, des industriels et des experts de la santé autour de l'enjeu de l'autonomie des systèmes de santé africains. Les échanges ont mis en lumière la nécessité de réduire la dépendance des pays africains aux technologies médicales extérieures. Casablanca s'impose comme une plateforme de réflexion stratégique sur l'avenir sanitaire du continent.",
+      "url": "https://www.map.ma/fr/content/gitex-future-health-africa-casablanca-2026",
+      "source": "MAP - Agence Maghreb Arabe Presse",
+      "published": "2026-05-06T10:45:00+00:00"
+    },
+    {
+      "title": "L'ONDA lance une refonte stratégique de ses prestations sociales et de son organisation",
+      "summary": "L'Office national des aéroports a lancé une refonte stratégique couvrant la gestion des colonies de vacances, des crédits au personnel et du pèlerinage. Ce chantier s'inscrit dans une logique de modernisation de la gestion des ressources humaines au sein de l'établissement public. Il témoigne d'une volonté plus large de rationaliser le fonctionnement des grandes entreprises et offices nationaux.",
+      "url": "https://telquel.ma/2026/05/06/onda-refonte-prestations-sociales-organisation",
+      "source": "Telquel",
+      "published": "2026-05-06T11:00:00+00:00"
+    }
+  ]
+}

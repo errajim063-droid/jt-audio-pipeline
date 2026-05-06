@@ -1,0 +1,13 @@
+# ── Copy this file to .env and fill in your values ──────────────────────────
+# NEVER commit .env to version control
+
+# Anthropic API key — https://console.anthropic.com/
+ANTHROPIC_API_KEY=sk-ant-...
+
+# Gmail address used to send the bulletin
+GMAIL_USER=your.address@gmail.com
+
+# Gmail App Password (NOT your account password)
+# Generate at: https://myaccount.google.com/apppasswords
+# Requires 2FA to be enabled on your Google account
+GMAIL_APP_PASSWORD=xxxx xxxx xxxx xxxx
